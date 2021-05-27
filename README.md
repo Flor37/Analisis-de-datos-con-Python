@@ -2,7 +2,7 @@
 
 ## Proyecto
 
-- [CSV limpio](https://github.com/Flor37/Analisis-de-datos-con-Python/blob/main/EcoFP.ipynb) 
+- [CSV limpio](https://github.com/Flor37/Analisis-de-datos-con-Python/blob/main/lim_EcoFP.ipynb) 
 - [Proyecto EcoFP](https://github.com/Flor37/Analisis-de-datos-con-Python/blob/main/EcoFP.ipynb) 
 
 
